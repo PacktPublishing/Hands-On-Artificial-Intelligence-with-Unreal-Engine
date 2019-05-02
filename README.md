@@ -4,37 +4,41 @@
 
 This is the code repository for [Hands-On Artificial Intelligence with Unreal Engine](https://prod.packtpub.com/in/game-development/hands-artificial-intelligence-unreal-engine-4?utm_source=github&utm_medium=repository&utm_campaign=9781788835657), published by Packt.
 
-**Subtitle from EPIC**
+**Everything you want to know about Game AI using Blueprints or C++**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Learning how to apply artificial intelligence ( AI ) is crucial and can take the fun factor to the next level, whether you're developing a traditional, educational, or any other kind of game. If you want to use AI to extend the life of your games and make them challenging and more interesting, this book is for you.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features:
+* Get an in-depth knowledge about all the AI Systems within Unreal Engine
+* Create complex AIs, understanding the art of designing and developing Behavior Tree
+* Learn how to perform Environmental Queries (EQS)
+* Master the Navigation, Perception, and Crowd Systems
+* Profile and Visualize the AI Systems with powerful debugging tools
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788835654) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
 The code will look like the following:
 ```
-if (test expression)
+void AMyFirstAIController::OnPossess(APawn* InPawn)
 {
-  Statement upon condition is true
+  Super::OnPossess(InPawn);
+  AUnrealAIBookCharacter* Character = Cast<AUnrealAIBookCharacter>(InPawn);
+  if (Character != nullptr)
+  {
+    UBehaviorTree* BehaviorTree = Character->BehaviorTree;
+    if (BehaviorTree != nullptr) {
+      RunBehaviorTree(BehaviorTree);
+    }
+  }
 }
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+Hands-On Artificial Intelligence with Unreal Engine is for you if you are a game developer with a bit experience in Unreal Engine, and now want to understand and implement believable game AI within Unreal Engine. The book will be both in Blueprint and C++, allowing people from every background to enjoy the book. Whether you're looking to build your first game or expand your knowledge to the edge as a Game AI Programmer, you will find plenty of exciting information and examples of game AI in terms of concepts and implementation, including how to extend some of these systems.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
@@ -51,13 +55,6 @@ With the following software and hardware list you can run all code files present
 | 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 | 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 | 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
