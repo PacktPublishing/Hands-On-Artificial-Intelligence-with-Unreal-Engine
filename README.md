@@ -40,42 +40,26 @@ void AMyFirstAIController::OnPossess(APawn* InPawn)
 **Following is what you need for this book:**
 Hands-On Artificial Intelligence with Unreal Engine is for you if you are a game developer with a bit experience in Unreal Engine, and now want to understand and implement believable game AI within Unreal Engine. The book will be both in Blueprint and C++, allowing people from every background to enjoy the book. Whether you're looking to build your first game or expand your knowledge to the edge as a Game AI Programmer, you will find plenty of exciting information and examples of game AI in terms of concepts and implementation, including how to extend some of these systems.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1 - 14   | Unreal Engine 4, Visual Studio      | Windows and Mac OS X               |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
-
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781788835657_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Unreal Engine 4.x Scripting with C++ Cookbook - Second Edition [[Packt]](https://prod.packtpub.com/in/game-development/unreal-engine-4x-scripting-c-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789809503) [[Amazon]](https://www.amazon.com/dp/1789809509)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Mastering Game Development with Unreal Engine 4 - Second Edition [[Packt]](https://prod.packtpub.com/in/game-development/mastering-game-development-unreal-engine-4-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991445) [[Amazon]](https://www.amazon.com/dp/1788991443)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
-
-**Author Name**
-Bio
-
+**Francesco Sapio**
+received his Master of Science in Engineering in Artificial Intelligence and Robotics degree from Sapienza University, Rome, Italy, a couple of semesters in advance, graduating with summa cum laude; he is currently a researcher at the same university.
+He is an Unreal and Unity 3D expert, skilled game designer, and an experienced user of major graphics programs. He helped the development of many games (both educational and commercial). He is also an active writer on the topic of game development.
+Finally, Francesco loves math, philosophy, logic, and puzzle solving, but most of all, creating video games—thanks to his passion for game designing and programming.
 
 ## Other books by the authors
 * [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
