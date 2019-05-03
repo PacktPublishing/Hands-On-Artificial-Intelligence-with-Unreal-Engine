@@ -55,15 +55,15 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Mastering Game Development with Unreal Engine 4 - Second Edition [[Packt]](https://prod.packtpub.com/in/game-development/mastering-game-development-unreal-engine-4-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991445) [[Amazon]](https://www.amazon.com/dp/1788991443)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Francesco Sapio**
 received his Master of Science in Engineering in Artificial Intelligence and Robotics degree from Sapienza University, Rome, Italy, a couple of semesters in advance, graduating with summa cum laude; he is currently a researcher at the same university.
 He is an Unreal and Unity 3D expert, skilled game designer, and an experienced user of major graphics programs. He helped the development of many games (both educational and commercial). He is also an active writer on the topic of game development.
 Finally, Francesco loves math, philosophy, logic, and puzzle solving, but most of all, creating video games—thanks to his passion for game designing and programming.
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+## Other books by the author
+* [Practical Unity Game Development](https://prod.packtpub.com/in/game-development/practical-unity-game-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781788837286)
+* [Unity 2017 2D Game Development Projects](https://prod.packtpub.com/in/game-development/unity-2017-2d-game-development-projects?utm_source=github&utm_medium=repository&utm_campaign=9781786460271)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
