@@ -6,6 +6,8 @@ This is the code repository for [Hands-On Artificial Intelligence with Unreal En
 
 **Everything you want to know about Game AI using Blueprints or C++**
 
+You can find the code files here: http://hog.red/AIBook2019ProjectFiles
+
 ## What is this book about?
 Learning how to apply artificial intelligence ( AI ) is crucial and can take the fun factor to the next level, whether you're developing a traditional, educational, or any other kind of game. If you want to use AI to extend the life of your games and make them challenging and more interesting, this book is for you.
 
